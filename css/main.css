@@ -1,0 +1,63 @@
+.limites{
+	width: 820px;
+	height: 520px;
+	background-color: #8CB27C;
+	padding: 15px;
+}
+
+.cancha{
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	top: 15px:
+	left: 15px;
+	border: 2px solid white;
+}
+
+.arco{
+	width: 120px;
+	height: 220px;
+	position: absolute;
+	top: 150px;	
+	border: 2px solid white;
+}
+
+.der{
+	right: 0;
+	border-right: 0;
+}
+
+.izq{
+	left: 0;
+	border-left: 0;
+}
+
+.centro{
+	width: 200px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 100%;
+	position: absolute;
+	top: 160px;
+	left: 310px;
+
+}
+
+.balones{
+	position: absolute;
+}
+
+.bder{
+	right: 135px;
+	top: 340px;
+}
+
+.bizq{
+	left: 110px;
+	top: 155px;
+}
+
+.bcentro{
+	left: 420px;
+	top: 85px;
+}
